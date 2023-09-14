@@ -1,5 +1,6 @@
 # spherical-robot-motion-control
- motion planning and controll of a spherical  robot using Simscape Multibody
+motion planning and controll of a spherical  robot using Simscape Multibody.
+ 
 Our robot is a sphere that contains a pendulum and a sliding mass. Moving these two objects leads to a change in the center of mass of the robot along two different axes, which also leads to the movement of the robot.
 
 The project consists of three subsystems:
