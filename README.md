@@ -12,3 +12,5 @@ The project consists of three subsystems:
 3. Motion controller: Another layer of controllers that generates the commands needed to follow a desired path.
 
 To run the project, please open simulationfile.slx in Matlab Simulink. Choose the type of path you want (linear or circular) and change the parameters of the path.
+you need to install Simscape Multibody Contact Forces Library.
+Matlab R2019b
